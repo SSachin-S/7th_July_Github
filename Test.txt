@@ -1,1 +1,2 @@
 1st input
+2nd input
